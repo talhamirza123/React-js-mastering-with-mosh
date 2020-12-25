@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import { getMovies } from '../services/fakeMovieService';
 import '../App.css';
 
+
+// MATERING RAECT
+
 class Movies extends Component 
 {
     state = 
