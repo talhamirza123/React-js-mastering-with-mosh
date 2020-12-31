@@ -1,18 +1,18 @@
-import React, { Component } from "react";
+// import React, { Component } from "react";
 
-import Movies from './components/movies';
+// import Movies from './components/Counter';
 
-import './App.css';
+// import './App.css';
 
-class App extends Component {
+// class App extends Component {
  
    
-  render() {
-    return 
-    (
-        <div class="container">< Movies /></div>
-    );
-}
-}
+//   render() {
+//     return 
+//     (
+//         <div class="container">< Movies /></div>
+//     );
+// }
+// }
  
-export default App;
+// export default App;
