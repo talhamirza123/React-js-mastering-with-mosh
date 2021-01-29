@@ -4,7 +4,7 @@ import '../App.css';
 // MATERING RAECT
 //helllo
 /// hi
-/// hellloo here are the new ones
+/// hellloo here are the new update one nd it run too
 class Counter extends Component 
 {
         render() {         
